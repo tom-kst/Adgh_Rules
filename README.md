@@ -136,8 +136,3 @@
     <img src="https://img.shields.io/badge/Ad%20Blocker%20Test-测试链接-orange?style=for-the-badge" alt="Ad Blocker Test"/>
   </a>
 </div>
-
-## 💬 完善项目
-
-我这纯粹是从<b>[8680大佬的GOODBYEADS项目](https://github.com/8680/GOODBYEADS)</b>fork来自用,方便自己修改一些规则的,如有更深入的需求请移步到原作者repo...
-
