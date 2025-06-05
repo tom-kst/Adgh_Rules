@@ -30,7 +30,9 @@
   <a href="#-拦截效果">拦截效果</a> •
   <a href="#-完善项目">完善项目</a>
 </p>
-
+<p align="center">
+  我这纯粹是从<b>[8680大佬的GOODBYEADS项目](https://github.com/8680/GOODBYEADS)</b>fork来自用,方便自己修改一些规则的,如有更深入的需求请移步到原作者repo...
+  </p>
 ---
 
 </div>
