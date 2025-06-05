@@ -1,6 +1,6 @@
-# GOODBYEADS Domain List
-# Homepage: https://github.com/8680/GOODBYEADS
-# Generated from GOODBYEADS DNS rules
+# Adgh_Rules Domain List
+# Homepage: https://github.com/tom-kst/Adgh_Rules
+# Generated from Adgh_Rules DNS rules
 
 *.diwodiwo.xyz
 *.exaapi.com

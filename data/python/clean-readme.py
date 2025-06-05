@@ -1,6 +1,6 @@
 import subprocess
 import datetime
-import pytz
+import pytz # type: ignore
 
 # 提取规则计数
 num_adblock = subprocess.getoutput("sed -n 's/^! Total count: //p' ./data/rules/adblock.txt")
