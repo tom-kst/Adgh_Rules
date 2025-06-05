@@ -141,19 +141,3 @@
 
 我这纯粹是从<b>[8680大佬的GOODBYEADS项目](https://github.com/8680/GOODBYEADS)</b>fork来自用,方便自己修改一些规则的,如有更深入的需求请移步到原作者repo...
 
-**提交范围**
-
-- 🚫 漏拦截的广告
-- ✅ 误杀的网站
-
-## ⭐ 感谢支持
-
-<p align='center'>
-  <a href="https://github.com/tom-kst/Adgh_Rules/starstats">
-    <img src="https://api.star-history.com/svg?repos=tom-kst/Adgh_Rules&type=Date" alt="Star History Chart">
-  </a>
-</p>
-
-<div align="center">
-  <b>如果觉得有用，请点个⭐支持一下！</b>
-</div>
