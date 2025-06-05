@@ -30,13 +30,15 @@
   <a href="#-拦截效果">拦截效果</a> •
   <a href="#-完善项目">完善项目</a>
 </p>
-------
+</div>
+
+------------
+
 <p align="center">
   我这纯粹是从 <b><a href="https://github.com/8680/GOODBYEADS">[8680大佬的GOODBYEADS项目]</a></b> fork来自用, 方便自己修改一些规则的, 如有更深入的需求请移步到原作者repo...
   </p>
-------
-
-</div>
+  
+------------
 
 ## 📊 项目统计
 
@@ -47,6 +49,7 @@
 🛡️ DNS拦截规则数量: 102751 
 ✅ 白名单规则数量: 14899 
 ```
+------------
 
 ## 📥 规则订阅
 
@@ -60,8 +63,9 @@
 | AdGuard Home DNS拦截规则 | [dns.txt](https://raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/dns.txt) | [dns.txt](https://ghfast.top/raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/dns.txt) |
 
 </details>
+------------
 
-<details>
+<details open>
 <summary><b>📋 仅域名规则</b></summary>
 <br>
 
@@ -70,8 +74,9 @@
 | 黑名单域名列表 | [ad-domain.txt](https://raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/ad-domain.txt) | [ad-domain.txt](https://ghfast.top/raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/ad-domain.txt) |
 
 </details>
+------------
 
-<details>
+<details open>
 <summary><b>📱 Quantumult X规则</b></summary>
 <br>
 
@@ -80,8 +85,9 @@
 | Quantumult X规则 | [qx.list](https://raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/qx.list) | [qx.list](https://ghfast.top/raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/qx.list) |
 
 </details>
+------------
 
-<details>
+<details open>
 <summary><b>🔍 SmartDNS规则</b></summary>
 <br>
 
@@ -91,8 +97,9 @@
 | SmartDNS白名单 | [smartdns-whitelist.conf](https://raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/smartdns-whitelist.conf) | [smartdns-whitelist.conf](https://ghfast.top/raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/smartdns-whitelist.conf) |
 
 </details>
+------------
 
-<details>
+<details open>
 <summary><b>✅ 白名单规则</b></summary>
 <br>
 
@@ -100,6 +107,8 @@
 | :---- | :---- | :---- |
 | 白名单规则 | [allow.txt](https://raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/allow.txt) | [allow.txt](https://ghfast.top/raw.githubusercontent.com/tom-kst/Adgh_Rules/master/data/rules/allow.txt) |
 </details>
+
+------------
 
 ## 📚 上游列表
 
@@ -119,9 +128,10 @@
 
 </details>
 
+------------
+
 ## 🚫 拦截效果
 
-<div align="center">
   <p><b>点击以下链接测试广告拦截效果：</b></p>
   
   <a href="https://adblock-tester.com">
@@ -135,4 +145,3 @@
   <a href="https://adblock.turtlecute.org/">
     <img src="https://img.shields.io/badge/Ad%20Blocker%20Test-测试链接-orange?style=for-the-badge" alt="Ad Blocker Test"/>
   </a>
-</div>
