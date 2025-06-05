@@ -149,7 +149,7 @@
 ## ⭐ 感谢支持
 
 <p align='center'>
-  <a href="https://github.com/tom-kst/Adgh_Rules/stargazers">
+  <a href="https://github.com/tom-kst/Adgh_Rules/starstats">
     <img src="https://api.star-history.com/svg?repos=tom-kst/Adgh_Rules&type=Date" alt="Star History Chart">
   </a>
 </p>
